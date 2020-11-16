@@ -9,7 +9,12 @@ What? A project that launches a digital marketing website for a marketing agency
 Why? To help the agency advertise its services.
 How? By ensuring that the website follows accessbility standards and is optimized for search engines.
 
+Here are some screenshots of the website:
+
+Screenshot 1:
 ![alt text](Develop/assets/images/screenshot1.png)
+
+Screenshot 2:
 ![alt text](Develop/assets/images/screenshot2.png)
 
 
