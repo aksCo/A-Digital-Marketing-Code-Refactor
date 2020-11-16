@@ -12,16 +12,18 @@ How? By ensuring that the website follows accessbility standards and is optimize
 Here are some screenshots of the website:
 
 Screenshot 1:
+
 ![alt text](Develop/assets/images/screenshot1.png)
 
+
 Screenshot 2:
+
 ![alt text](Develop/assets/images/screenshot2.png)
 
 
 ## Link to Deployed Application
 
-HTML file: Develop/index.html
-![alt text](Develop/index.html)
+HTML file: ![alt text](Develop/index.html)
 
 
 ## Usage 
