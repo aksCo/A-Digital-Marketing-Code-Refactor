@@ -13,19 +13,18 @@ Here are some screenshots of the website:
 
 Screenshot 1:
 
-![alt text](Develop/assets/images/screenshot1.png)
+![alt text](screenshot1.png)
 
 
 Screenshot 2:
 
-![alt text](Develop/assets/images/screenshot2.png)
+![alt text](screenshot2.png)
 
 
 ## Link to Deployed Application
 
-HTML file:
+https://aksco.github.io/digitalmarketingcode/
 
-![alt text](Develop/index.html)
 
 ## Usage 
 
