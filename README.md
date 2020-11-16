@@ -21,6 +21,8 @@ Screenshot 2:
 ## Link to Deployed Application
 
 HTML file: Develop/index.html
+![alt text](Develop/index.html)
+
 
 ## Usage 
 
