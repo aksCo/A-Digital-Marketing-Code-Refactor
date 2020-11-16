@@ -23,7 +23,7 @@ Screenshot 2:
 
 ## Link to Deployed Application
 
-../A-Digital-Marketing-Code-Refactor/Develop/index.html
+![alt text](A-Digital-Marketing-Code-Refactor/Develop/index.html)
 
 HTML file:
 
