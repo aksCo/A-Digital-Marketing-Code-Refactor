@@ -23,7 +23,8 @@ Screenshot 2:
 
 ## Link to Deployed Application
 
-HTML file: ![alt text](Develop/index.html)
+HTML file: 
+![alt text](Develop/index.html)
 
 
 ## Usage 
