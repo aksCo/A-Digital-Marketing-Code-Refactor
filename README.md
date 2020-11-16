@@ -27,11 +27,4 @@ The HTML file will automatically access the CSS file as they have been linked.
 Changes were made to code provided by Bryan Wu.
 
 
-## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
-
-
-
 © 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
