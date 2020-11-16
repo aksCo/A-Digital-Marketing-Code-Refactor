@@ -15,6 +15,7 @@ How? By ensuring that the website follows accessbility standards and is optimize
 
 ## Link to Deployed Application
 
+HTML file: Develop/index.html
 
 ## Usage 
 
