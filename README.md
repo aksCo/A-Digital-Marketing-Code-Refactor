@@ -13,12 +13,12 @@ Here are some screenshots of the website:
 
 Screenshot 1:
 
-![alt text](screenshot1.png)
+![A Screenshot of the website](assets/images/screenshot1.png)
 
 
 Screenshot 2:
 
-![alt text](screenshot2.png)
+![Another Screenshot of the website](assets/images/screenshot2.png)
 
 
 ## Link to Deployed Application
