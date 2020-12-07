@@ -1,4 +1,4 @@
-# Homework 1
+# Digital Marketing Website
 
 ## Title
 An accessible digital marketing website for a marketing agency.
